@@ -1,0 +1,37 @@
+D:\Lottery List\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\Lottery List\obj\Debug\Lottery_List.MainActivity.resources
+D:\Lottery List\obj\Debug\Lottery_List.Properties.Resources.resources
+D:\Lottery List\obj\Debug\Lottery List.csproj.GenerateResource.cache
+D:\Lottery List\obj\Debug\Lottery List.csproj.CoreCompileInputs.cache
+D:\Lottery List\obj\Debug\Lottery List.csproj.CopyComplete
+D:\Lottery List\obj\Debug\Lottery_List.SelectBill.resources
+D:\Lottery List\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Lottery List\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Lottery List\bin\Debug\CrystalDecisions.Shared.dll
+D:\Lottery List\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Lottery List\bin\Debug\FlashControlV71.dll
+D:\Lottery List\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Lottery List\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Lottery List\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Lottery List\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Lottery List\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Lottery List\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Lottery List\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Lottery List\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Lottery List\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Lottery List\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Lottery List\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Lottery List\bin\Debug\ShockwaveFlashObjects.dll
+D:\Lottery List\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Lottery List\bin\Debug\stdole.dll
+D:\Lottery List\obj\Debug\Lottery_List.Form1.resources
+D:\Lottery List\bin\Debug\LotteryCalculate.exe.config
+D:\Lottery List\bin\Debug\LotteryCalculate.exe.manifest
+D:\Lottery List\bin\Debug\LotteryCalculate.application
+D:\Lottery List\bin\Debug\LotteryCalculate.exe
+D:\Lottery List\bin\Debug\LotteryCalculate.pdb
+D:\Lottery List\obj\Debug\LotteryCalculate.exe.manifest
+D:\Lottery List\obj\Debug\LotteryCalculate.application
+D:\Lottery List\obj\Debug\LotteryCalculate.exe
+D:\Lottery List\obj\Debug\LotteryCalculate.pdb
+D:\Lottery List\obj\Debug\Lottery List.csprojAssemblyReference.cache

@@ -1,0 +1,12 @@
+D:\Lottery List\obj\x86\Debug\Lottery_List.MainActivity.resources
+D:\Lottery List\obj\x86\Debug\Lottery_List.Properties.Resources.resources
+D:\Lottery List\obj\x86\Debug\Lottery_List.SelectBill.resources
+D:\Lottery List\obj\x86\Debug\Lottery List.csproj.GenerateResource.cache
+D:\Lottery List\obj\x86\Debug\Lottery List.csproj.CoreCompileInputs.cache
+D:\Lottery List\bin\x86\Debug\Lottery List.exe.config
+D:\Lottery List\bin\x86\Debug\Lottery List.exe
+D:\Lottery List\bin\x86\Debug\Lottery List.pdb
+D:\Lottery List\bin\x86\Debug\Bunifu_UI_v1.5.3.dll
+D:\Lottery List\obj\x86\Debug\Lottery List.csproj.CopyComplete
+D:\Lottery List\obj\x86\Debug\Lottery List.exe
+D:\Lottery List\obj\x86\Debug\Lottery List.pdb
